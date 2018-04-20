@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f88eae43-df9b-4da4-9a67-89ab6524023f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/t1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/t2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HelloA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloA.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +27,7 @@
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.3.RELEASE/spring-beans-3.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/ListableBeanFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1121">
-              <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
             </state>
           </provider>
         </entry>
@@ -276,12 +272,12 @@
       <option name="presentableId" value="Default" />
       <updated>1523696286268</updated>
       <workItem from="1523696290084" duration="3915000" />
-      <workItem from="1524244905021" duration="1627000" />
+      <workItem from="1524244905021" duration="2783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5542000" />
+    <option name="totallyTimeSpent" value="6698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -298,7 +294,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4891008" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4414169" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21484375" />
@@ -616,7 +612,7 @@
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.3.RELEASE/spring-beans-3.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/ListableBeanFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1121">
-          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
         </state>
       </provider>
     </entry>
@@ -676,5 +672,83 @@
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>88:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>88</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
