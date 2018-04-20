@@ -149,9 +149,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="141" />
-    <option name="y" value="35" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="892" />
+    <option name="y" value="257" />
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
